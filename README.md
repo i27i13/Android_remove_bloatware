@@ -21,7 +21,7 @@ Pro version         Lite version
 ![Image of Samsung](https://github.com/i27i13/Android_remove_bloatware/blob/master/Samsung.jpg =250x250)
 
 
-<img src="https://github.com/i27i13/Android_remove_bloatware/blob/master/Samsung.jpg" data-canonical-src="https://github.com/i27i13/Android_remove_bloatware/blob/master/Samsung.jpg" width="360" height="318" />
+<img src="https://github.com/i27i13/Android_remove_bloatware/blob/master/Samsung.jpg" data-canonical-src="https://github.com/i27i13/Android_remove_bloatware/blob/master/Samsung.jpg" width="480" height="424" />
 
 
 
