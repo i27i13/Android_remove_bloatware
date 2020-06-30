@@ -51,7 +51,7 @@ Samsung:  Pro version
 
 Sony:     Lite version
 
-<img src="https://github.com/i27i13/Android_remove_bloatware/blob/master/Sony.png" data-canonical-src="https://github.com/i27i13/Android_remove_bloatware/blob/master/Sony.png" width="720" height="636" />
+<img src="https://github.com/i27i13/Android_remove_bloatware/blob/master/Sony.png" data-canonical-src="https://github.com/i27i13/Android_remove_bloatware/blob/master/Sony.png" width="720" height="1272" />
 
 
 
