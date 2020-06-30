@@ -16,12 +16,15 @@ of the package unlike the lite version!
 
 In the lite version only the package name will appear!
 
-![Image of Samsung] ![Image of Sony]
-Pro version         Lite version
-![Image of Samsung](https://github.com/i27i13/Android_remove_bloatware/blob/master/Samsung.jpg =250x250)
+
+Samsung:  Pro version
+
+<img src="https://github.com/i27i13/Android_remove_bloatware/blob/master/Samsung.jpg" data-canonical-src="https://github.com/i27i13/Android_remove_bloatware/blob/master/Samsung.jpg" width="720" height="636" />
 
 
-<img src="https://github.com/i27i13/Android_remove_bloatware/blob/master/Samsung.jpg" data-canonical-src="https://github.com/i27i13/Android_remove_bloatware/blob/master/Samsung.jpg" width="480" height="424" />
+Sony:     Lite version
+
+<img src="https://github.com/i27i13/Android_remove_bloatware/blob/master/Sony.jpg" data-canonical-src="https://github.com/i27i13/Android_remove_bloatware/blob/master/Sony.jpg" width="720" height="636" />
 
 
 
