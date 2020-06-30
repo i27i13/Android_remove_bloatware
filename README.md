@@ -208,7 +208,9 @@ Careful with what you disable!
 I have a note 9 and this is what I had disabled:
 
 pm disable-user --user 0 com.google.android.projection.gearhead
+
 pm disable-user --user 0 com.samsung.android.samsungpassautofill
+
 pm disable-user --user 0 com.samsung.android.app.watchmanagerstub
 pm disable-user --user 0 com.samsung.android.smartmirroring
 pm disable-user --user 0 com.android.bookmarkprovider
