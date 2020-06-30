@@ -212,100 +212,195 @@ pm disable-user --user 0 com.google.android.projection.gearhead
 pm disable-user --user 0 com.samsung.android.samsungpassautofill
 
 pm disable-user --user 0 com.samsung.android.app.watchmanagerstub
+
 pm disable-user --user 0 com.samsung.android.smartmirroring
+
 pm disable-user --user 0 com.android.bookmarkprovider
+
 pm disable-user --user 0 com.google.android.apps.turbo
+
 pm disable-user --user 0 com.google.android.gms.location.history
+
 pm disable-user --user 0 com.samsung.android.app.spage
+
 pm disable-user --user 0 com.sec.android.desktopmode.uiservice
+
 pm disable-user --user 0 com.samsung.ims.smk
+
 pm disable-user --user 0 com.sec.android.widgetapp.webmanual
+
 pm disable-user --user 0 com.samsung.android.bixby.service
+
 pm disable-user --user 0 com.samsung.android.bixby.agent
+
 pm disable-user --user 0 com.samsung.android.bixby.agent.dummy
+
 pm disable-user --user 0 com.samsung.android.bixby.wakeup
+
 pm disable-user --user 0 com.samsung.android.visionintelligence
+
 pm disable-user --user 0 com.samsung.android.calendar
+
 pm disable-user --user 0 com.android.calllogbackup
+
 pm disable-user --user 0 com.samsung.android.drivelink.stub
+
 pm disable-user --user 0 com.samsung.android.app.contacts
+
 pm disable-user --user 0 com.samsung.android.rubin.app
+
 pm disable-user --user 0 com.sec.android.app.dexonpc
+
 pm disable-user --user 0 com.sec.android.app.desktoplauncher
+
 pm disable-user --user 0 com.samsung.android.lool
+
 pm disable-user --user 0 com.diotek.sec.lookup.dictionary
+
 pm disable-user --user 0 com.samsung.android.forest
+
 pm disable-user --user 0 com.facebook.system
+
 pm disable-user --user 0 com.facebook.appmanager
+
 pm disable-user --user 0 com.facebook.services
+
 pm disable-user --user 0 com.facebook.katana
+
 pm disable-user --user 0 com.samsung.android.fmm
+
 pm disable-user --user 0 com.sec.android.widgetapp.samsungapps
+
 pm disable-user --user 0 com.samsung.android.themestore
+
 pm disable-user --user 0 com.samsung.android.themecenter
+
 pm disable-user --user 0 com.sec.android.gallery3d
+
 pm disable-user --user 0 com.samsung.storyservice
+
 pm disable-user --user 0 com.samsung.android.game.gametools
+
 pm disable-user --user 0 com.samsung.android.game.gos
+
 pm disable-user --user 0 com.google.android.googlequicksearchbox
+
 pm disable-user --user 0 com.google.android.syncadapters.calendar
+
 pm disable-user --user 0 com.google.android.syncadapters.contacts
+
 pm disable-user --user 0 com.google.android.tts
+
 pm disable-user --user 0 com.samsung.android.ipsgeofence
+
 pm disable-user --user 0 com.samsung.android.keyguardwallpaperupdator
+
 pm disable-user --user 0 com.samsung.android.kidsinstaller
+
 pm disable-user --user 0 com.samsung.android.knox.analytics.uploader
+
 pm disable-user --user 0 com.samsung.android.app.simplesharing
+
 pm disable-user --user 0 com.samsung.android.mdx
+
 pm disable-user --user 0 com.samsung.android.visionarapps
+
 pm disable-user --user 0 com.google.android.apps.maps
+
 pm disable-user --user 0 com.google.android.feedback
+
 pm disable-user --user 0 com.samsung.android.allshare.service.mediashare
+
 pm disable-user --user 0 com.samsung.android.easysetup
+
 pm disable-user --user 0 com.android.hotwordenrollment.okgoogle
+
 pm disable-user --user 0 com.samsung.android.app.reminder
+
 pm disable-user --user 0 com.sec.android.app.apex 
+
 pm disable-user --user 0 com.sec.android.app.billing
+
 pm disable-user --user 0 com.samsung.android.scloud
+
 pm disable-user --user 0 com.samsung.android.mobileservice
+
 pm disable-user --user 0 com.samsung.android.mateagent
+
 pm disable-user --user 0 com.samsung.android.app.mirrorlink
+
 pm disable-user --user 0 com.samsung.android.app.notes
+
 pm disable-user --user 0 com.samsung.android.authfw
+
 pm disable-user --user 0 com.samsung.android.samsungpass
+
 pm disable-user --user 0 com.sec.spp.push
+
 pm disable-user --user 0 com.samsung.SMT
+
 pm disable-user --user 0 com.samsung.android.fast
+
 pm disable-user --user 0 com.sec.android.easyMover
+
 pm disable-user --user 0 com.sec.android.easyMover.Agent
+
 pm disable-user --user 0 com.samsung.android.beaconmanager
+
 pm disable-user --user 0 com.samsung.android.app.advsounddetector
+
 pm disable-user --user 0 com.samsung.android.app.tips
+
 pm disable-user --user 0 com.samsung.android.service.airviewdictionary
+
 pm disable-user --user 0 com.samsung.android.app.talkback
+
 pm disable-user --user 0 com.samsung.android.dynamiclock
+
 pm disable-user --user 0 com.sec.android.daemonapp
+
 pm disable-user --user 0 com.samsung.android.app.social
+
 pm disable-user --user 0 com.samsung.android.net.wifi.wifiguider
+
 pm disable-user --user 0 com.android.hotwordenrollment.xgoogle
+
 pm disable-user --user 0 com.microsoft.appmanager
+
 pm disable-user --user 0 de.axelspringer.yana.zeropage
+
 pm disable-user --user 0 com.google.android.apps.tachyon
+
 pm disable-user --user 0 com.google.android.apps.photos
+
 pm disable-user --user 0 com.google.android.youtube
+
 pm disable-user --user 0 com.google.android.gm
+
 pm disable-user --user 0 com.google.android.videos
+
 pm disable-user --user 0 com.google.android.music
+
 pm disable-user --user 0 com.google.ar.core
+
 pm disable-user --user 0 com.samsung.android.aremoji
+
 pm disable-user --user 0 com.samsung.android.game.gamehome
+
 pm disable-user --user 0 com.samsung.android.app.ledcoverdream
+
 pm disable-user --user 0 com.linkedin.android
+
 pm disable-user --user 0 com.microsoft.office.excel
+
 pm disable-user --user 0 com.microsoft.skydrive
+
 pm disable-user --user 0 com.microsoft.office.powerpoint
+
 pm disable-user --user 0 com.microsoft.office.word
+
 pm disable-user --user 0 com.samsung.android.ardrawing
+
 pm disable-user --user 0 com.samsung.android.arzone
 
 
